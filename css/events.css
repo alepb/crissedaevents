@@ -228,8 +228,8 @@ margin: 0 auto;
      float:left;
 	 margin:0px;
 	 padding:0px;
-     width:940px;
-     height:120px;	 
+         width:940px;
+         height:auto;	 
 	 background-color:#f5f3e8;  
 }
 .content3 h2 {
