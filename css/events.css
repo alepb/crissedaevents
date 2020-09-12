@@ -62,9 +62,9 @@ padding:5px 0px;
 
 #navis ul{
 	 list-style-type:none;
-     margin:0px auto;
+         margin:0px auto;
 	 padding:20px 20px;
-	 width:1080px;	 
+	 width:auto;	 
 	 text-align: center;
 	 color:#fff;
 	 font:normal 10px Helvetica, Arial, sans-serif;
@@ -86,7 +86,7 @@ visibility:hidden;
 }
 #navis li a{
 color: #fff;
-padding:5px;
+padding:10px;
 text-decoration:none;
 }
 #navis li a:hover{
