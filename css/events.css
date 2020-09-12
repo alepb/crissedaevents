@@ -86,12 +86,12 @@ visibility:hidden;
 }
 #navis li a{
 color: #fff;
-padding:10px;
+padding:20px;
 text-decoration:none;
 }
 #navis li a:hover{
 color: #d8d7d8;
-padding:5px;
+padding:20px;
 }
 #main  {
      margin:0 auto;
